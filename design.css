@@ -1,0 +1,35 @@
+/* tag selection*/
+*{        top: 0px;
+   margin: 0px;
+padding: 0px;}
+body{background-color: #8bcdcd;}
+hr{border-style: dotted none none; 
+   border-color: goldenrod; 
+   border-width:  5; 
+   width: 5%; }
+h1{ color: #3797a4;
+     font-style: oblique;} 
+h3{color: #3797a4;}   
+p{color:green;}
+img:hover{background-color: gold;}
+img{
+    border-width: 480px;
+   border-radius: 100%;}
+
+
+   
+.navbar{background-color: burlywood; 
+    text-align: center; }
+.navbar ul{
+   display: inline-flex;
+   list-style: none;
+   color: black;}
+   .navbar ul li{ 
+      width: 120px;
+      margin: 15px;
+      padding: 15px;
+   }
+   .navbar ul li a{ text-decoration: none;
+                       color: #af05aa ;}   
+ .navbar ul li:hover{ background :#ca6144;
+                 border-radius: 6px; }                       
